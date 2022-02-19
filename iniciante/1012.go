@@ -6,8 +6,10 @@ import (
 )
  
 func main() {
+    //Declaração de variáveis
     var A, B, C float64
 
+    //Entrada de dados 
     fmt.Scanf("%f", &A)
     fmt.Scanf("%f", &B)
     fmt.Scanf("%f", &C)
@@ -27,6 +29,7 @@ func main() {
     //Área do retângulo 
     RETANGULO := A * B 
 
+    //Saída de dados
     fmt.Printf("TRIANGULO: %.3f\n", TRIANGULO)
     fmt.Printf("CIRCULO: %.3f\n", CIRCULO)
     fmt.Printf("TRAPEZIO: %.3f\n", TRAPEZIO)

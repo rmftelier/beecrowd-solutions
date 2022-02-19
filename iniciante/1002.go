@@ -5,7 +5,7 @@ import (
     "fmt"
 )
  
-func main() {   
+func main() {     
 	  //Declaração de variáveis 
     var raio float64
     

@@ -6,7 +6,6 @@ import (
 )
  
 func main() {
-
     //Declaração de variáveis
     var a,b int
 
