@@ -5,14 +5,14 @@ O Beecrowd é um repositório de problemas de programação. Nele os problemas s
 
 ## 💻 Proposta do repositório
 
-Nesse repositório mostrarei as minhas soluções para os problemas disponibilizados no Beecrowd e os códigos escritos, que estarão em sua maioria na linguagem Go. Alguns problemas também terão a lógica que pensei de forma escrita, para vê-la bastar clicar na aba de lógica da tabela. Você também pode acessar [meu perfil no Bee](https://www.beecrowd.com.br/judge/pt/profile/579601) para mais informações 🔗
+Nesse repositório mostrarei as minhas soluções para os problemas disponibilizados no Beecrowd e os códigos resultantes, que estarão em sua maioria na linguagem Go. Alguns problemas também terão a lógica que pensei de forma escrita, para vê-las basta clicar na aba de lógica da tabela. Você também pode acessar [meu perfil no Bee](https://www.beecrowd.com.br/judge/pt/profile/579601)🔗 para mais informações.
 
 ## 🎯 Resoluções por categorias 
 
-1. [Iniciante](Iniciante) 
+1. [Iniciante](#iniciante) 
 
 
-<h3> Iniciante </h3>
+### Iniciante 
 
 | Problema            |  Lógica             | Código              | Nível de dificuldade | 
 | :-------------------: | :-------------------: | :-------------------: | :-------------------:  |
